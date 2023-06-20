@@ -1,0 +1,13 @@
+O que é npm ?
+
+- O principal gerenciador de pacotes do NODE.JS;
+- A sigla significa: Node Package Manager;
+- Pode-se instalar não só pacotes, mas também configurar projetos e rodar scripts por meio do NPM;
+- A criação de um projeto gera sempre um arquivo, package.json;
+
+O que precisa ser feito para criar um projeto npm
+
+- Para iniciar um projeto, se usa o comando npm init;
+- Se dará um questionario de configurações iniciais;
+- E então um package.json condensado as informaçoes é criado;
+- Isto caracteriza o inicio do projeto com npm e Node;
